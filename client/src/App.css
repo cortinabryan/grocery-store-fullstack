@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.divider-img {
+  object-fit: contain;
+  width: 40rem;
+  height: 40rem;
+}
+
+.divider-1-inner {
+  object-fit: contain;
+  width: 50%;
+  height: 50%;
+}
+
+.logo {
+  position: relative;
+  height: auto;
+  width: auto;
+}
+
+.logo img {
+  position: relative;
+  height: auto;
+  width: auto;
+  max-height: 5rem;
+  max-width: 25rem;
+  /* max-height: 72px;
+  max-width: 250px; */
+}
