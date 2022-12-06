@@ -1,0 +1,186 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Fruits",
+      "desc": "Fruits shipped from the native islands of Fresno California",
+      "disc": "Up to 20% Off!"
+    },
+    {
+      "id": "2",
+      "name": "Vegetables",
+      "desc": "Locallly growned grass",
+      "disc": "Up to 15% Off!"
+    },
+    {
+      "id": "3",
+      "name": "Dairy & Eggs",
+      "desc": "Lactose Free & Gluten Free options available",
+      "disc": "Up to 50% Off!"
+    },
+    {
+      "id": "4",
+      "name": "Meat",
+      "desc": "100% organic grass-fed farm-raised depression free chickens/cows/pigs",
+      "disc": "Up to 40% Off!"
+    },
+    {
+      "id": "5",
+      "name": "Seafood",
+      "desc": "Spongebob's friends and enemies",
+      "disc": "Up to 30% Off!"
+    },
+    {
+      "id": "6",
+      "name": "Frozen",
+      "desc": "Like elsa",
+      "disc": "Up to 60% Off!"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Mango",
+      "price": 1.99,
+      "desc": "Hand picked Mangoes from my mom's backyard"
+    },
+    {
+      "id": "2",
+      "name": "Apples",
+      "price": 1.35,
+      "desc": "Hand picked Apples from my mom's backyard"
+    },
+    {
+      "id": "3",
+      "name": "Orange",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "4",
+      "name": "Pineapple",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "5",
+      "name": "Brocolli",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "6",
+      "name": "Spinach",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "7",
+      "name": "Asparagus",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "8",
+      "name": "Kale",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "9",
+      "name": "Milk",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "10",
+      "name": "Yogurt",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "11",
+      "name": "Eggs",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "12",
+      "name": "Eggwhites",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "13",
+      "name": "Wagyu",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "14",
+      "name": "Ground Beef",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "15",
+      "name": "Chicken",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "16",
+      "name": "Ribs",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "17",
+      "name": "Crab",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "18",
+      "name": "Lobestertail",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "19",
+      "name": "Kingcrab",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "20",
+      "name": "Shrimp",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "21",
+      "name": "Frozen Fruit",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "22",
+      "name": "Mixed Vegitables",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "23",
+      "name": "Frozen Pizza",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    },
+    {
+      "id": "24",
+      "name": "Ice Cream",
+      "price": 0.89,
+      "desc": "Hand picked Oranges from my mom's backyard"
+    }
+  ]
+}

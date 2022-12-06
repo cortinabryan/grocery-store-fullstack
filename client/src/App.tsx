@@ -7,15 +7,14 @@ import Products from "./comps/Products.jsx";
 import Deal from "./comps/Deal.jsx";
 import Email from "./comps/Email.jsx";
 import Footer from "./comps/Footer.jsx";
-import Data from "./Data.jsx";
-import { useState } from "react";
+import Data from "./Data.js";
+import { useEffect, useState } from "react";
 // import ShoppingCart from "./comps/ShoppingCart";
 
 interface CartItem {
   id: string;
   name: string;
   price: number;
-  image: string;
   desc: string;
   qty: number;
 }
@@ -24,20 +23,27 @@ interface Product {
   id: string;
   name: string;
   price: number;
-  image: string;
   desc: string;
   qty: number;
 }
 interface Category {
   id: string;
   name: string;
-  image: string;
   desc: string;
   disc: string;
 }
 
 function App() {
-  const { products } = Data;
+  const [products, setProducts] = useState<Product[]>([]);
+
+  useEffect(() => {
+    fetch("/products")
+      .then((response) => response.json())
+      .then((response) => {
+        setProducts(response.data);
+      });
+  }, []);
+
   const { categories } = Data;
   const [cartItems, setCartItems] = useState<CartItem[]>([]);
 
