@@ -75,3 +75,30 @@ export default ProductsCard;
       </div>
     </div> */
 }
+
+
+// Test 2
+
+{/* <div className="products-card card w-96 bg-base-100 shadow-xl justify-self-center my-5">
+      <figure>
+        <img className="max-w-sm" src={product.image} alt={product.name} />
+      </figure>
+      <div className="card-body">
+        <h3 className="card-title">
+          {product.name}
+          <div className="badge badge-secondary">20% Off</div>
+        </h3>
+        <p>{product.desc}</p>
+        <button
+          onClick={() => onAdd(product)}
+          className="btn bg-green-800 hover:btn-primary"
+        >
+          Add to Cart
+        </button>
+        <div>${product.price}</div>
+        <div className="card-actions justify-center mt-5">
+          <div className="badge badge-outline badge-primary">Produce</div>
+          <div className="badge badge-outline badge-primary">Organic</div>
+        </div>
+      </div>
+    </div> */}
